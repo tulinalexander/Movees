@@ -1,0 +1,9 @@
+include ':ru.movees.app.api'
+include ':ru.movees.app.domain'
+include ':ru.movees.lib.android'
+include ':ru.movees.lib.core'
+include ':ru.movees.lib.api'
+include ':ru.movees.lib.logging'
+include ':ru.movees.lib.serialization'
+include ':app'
+rootProject.name = "Movees"
